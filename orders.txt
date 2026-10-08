@@ -1,0 +1,41 @@
+ORDER DATABASE
+
+Order ID: ORD123
+Customer Name: Rahul
+Product: iPhone 15
+Quantity: 1
+Order Status: Shipped
+Tracking ID: TRK789456
+Shipping Partner: BlueDart
+Expected Delivery: 10-Oct-2026
+Payment Status: Paid
+
+Order ID: ORD124
+Customer Name: Anil
+Product: Samsung Galaxy S24
+Quantity: 1
+Order Status: Processing
+Tracking ID: Not Available
+Shipping Partner: Not Assigned
+Expected Delivery: 12-Oct-2026
+Payment Status: Paid
+
+Order ID: ORD125
+Customer Name: Priya
+Product: Nike Running Shoes
+Quantity: 2
+Order Status: Delivered
+Tracking ID: TRK555888
+Shipping Partner: Delhivery
+Expected Delivery: 05-Oct-2026
+Payment Status: Paid
+
+Order ID: ORD126
+Customer Name: Kumar
+Product: HP Laptop
+Quantity: 1
+Order Status: Cancelled
+Tracking ID: Not Available
+Shipping Partner: Not Assigned
+Expected Delivery: Not Applicable
+Payment Status: Refunded
